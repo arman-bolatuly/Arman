@@ -1,0 +1,38 @@
+GET http://localhost:3001/api/books
+
+
+### 
+POST http://localhost:3001/api/books
+
+
+###
+DELETE http://localhost:3001/api/books/2
+
+
+###
+PATCH http://localhost:3001/api/books/2
+
+
+###
+GET http://localhost:3001/api/books/23
+
+
+--------------------------------------
+
+###
+GET http://localhost:3001/api/users
+
+
+###
+DELETE http://localhost:3001/api/users/2
+
+
+### 
+POST http://localhost:3001/api/users
+
+
+###
+PATCH http://localhost:3001/api/users/3
+
+###
+GET http://localhost:3001/api/users/3
